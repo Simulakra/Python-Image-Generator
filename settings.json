@@ -1,0 +1,31 @@
+{
+    "settings": {
+        "output_folder": "exports",
+        "base_file": "layers/ana#1000.png",
+        "base_order": 1,
+        "empty_layer": true
+    },
+    "layers": [
+        {
+            "input_folder": "layers/arkaplan"
+        },
+        {
+            "input_folder": "layers/tshirt_duz"
+        },
+        {
+            "input_folder": "layers/kol"
+        },
+        {
+            "input_folder": "layers/agiz"
+        },
+        {
+            "input_folder": "layers/kafa"
+        },
+        {
+            "input_folder": "layers/gozlukler"
+        },
+        {
+            "input_folder": "layers/oge_duz"
+        }
+    ]
+}
