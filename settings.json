@@ -2,8 +2,8 @@
     "settings": {
         "output_folder": "exports",
         "base_file": "layers/ana#1000.png",
-        "base_order": 1,
-        "empty_layer": true
+        "empty_layer": true,
+        "base_order": 1
     },
     "layers": [
         {
